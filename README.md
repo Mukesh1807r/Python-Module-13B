@@ -47,7 +47,19 @@ def infixToPostfix(expression):
         output += stack.pop()
     return output
 
-# Input expression
 expression = input("Enter infix expression: ")
 print(f"infix notation:  {expression}")
 print("postfix notation: ", infixToPostfix(expression))
+
+---
+
+##OutPut
+![image](https://github.com/user-attachments/assets/5092b0b4-eaa2-4bf9-a300-8f191aee9afd)
+
+---
+
+##Reslt
+Thus, the program was successfully created and executed to convert infix to postfix notation.
+
+
+

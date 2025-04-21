@@ -55,12 +55,14 @@ print("postfix notation: ", infixToPostfix(expression))
 
 ---
 
-##OutPut
+## OutPut
+
 ![image](https://github.com/user-attachments/assets/5092b0b4-eaa2-4bf9-a300-8f191aee9afd)
 
 ---
 
-##Reslt
+## Result
+
 Thus, the program was successfully created and executed to convert infix to postfix notation.
 
 

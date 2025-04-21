@@ -51,6 +51,8 @@ expression = input("Enter infix expression: ")
 print(f"infix notation:  {expression}")
 print("postfix notation: ", infixToPostfix(expression))
 
+```
+
 ---
 
 ##OutPut
